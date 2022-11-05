@@ -1,0 +1,13 @@
+.title{
+    font-size: 1cm;
+    font-family: fantasy;
+    text-align: center;
+    text-decoration-color: blue;
+}
+.text{
+text-size-adjust: 2px;
+text-align: justify;
+    text-decoration: rgb(100, 50, 238);
+    padding: 5px;
+
+}
